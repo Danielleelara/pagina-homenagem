@@ -1,6 +1,6 @@
 h1{
     font-size: 50px;
-
+    color: "green";
 }
 h2{
     font-size: 15px;
@@ -10,15 +10,13 @@ h2{
 
 h3{
     text-align: center;
-
 }
-
 
 body {
     background: #e6e3e3;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;
-        
+       
 }
 
 .imagem{
@@ -40,7 +38,7 @@ header{
    
 }
 .caixa {
-    text-align: center;
+  text-align: center;
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
@@ -48,8 +46,19 @@ header{
 .texto{
     background: #e6e3e3;
     padding: 20px 0;
-       
+  
 }
-p5 {
+.lista{
+  color: gray;
+  width: 400px; 
+  margin-left: auto;
+  margin-right: auto; 
+}
+p {
+    text-align: center;
     font-weight: bolder;
     font-size: larger;
+  }
+  
+
+   
